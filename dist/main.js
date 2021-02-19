@@ -209,7 +209,7 @@
                 const n = document.createElement("h3");
                 n.innerText = "Search any city and get informed about the weather at the moment", e.appendChild(n), W.appendChild(e);
                 const a = document.createElement("img");
-                a.src = "../images/logo.gif", a.alt = "logo", W.appendChild(a)
+                a.src = "../img/logo.gif", a.alt = "logo", W.appendChild(a)
             }
             return {
                 leftWrapper: n,

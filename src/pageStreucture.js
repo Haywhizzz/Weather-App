@@ -108,7 +108,7 @@ export default (data, bgImage = null) => {
         rightWrapper.appendChild(div);
 
         const image = document.createElement('img');
-        image.src = '../images/logo.gif';
+        image.src = '../img/logo.gif';
         image.alt = 'logo';
         rightWrapper.appendChild(image);
     }
