@@ -2,9 +2,9 @@
 
 > This is part of the Weather-App Project in [The Odin Project's](https://www.theodinproject.com/courses/javascript/lessons/weather-app?ref=lnav) Javascript Curriculum.
 
-![screenshot]()
+![screenshot](./img/screenshot.png)
 
-View the app live [here]()
+View the app live [here](https://rawcdn.githack.com/Haywhizzz/Weather-App/5b3aca82f3624d961ed43516ca050361ec1f2866/dist/index.html)
 
 ## Built With
 
@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/somoye123/Weather-app/issues).
+Feel free to check the [issues page](https://github.com/haywhizzz/Weather-app/issues).
 
 ## Show your support
 
